@@ -7,7 +7,7 @@
 Summary:	Import exceptions from potentially bundled packages in requests
 Name:		python-requestsexceptions
 Version:	1.3.0
-Release:	1
+Release:	2
 License:	Apache
 Group:		Libraries/Python
 Source0:	https://files.pythonhosted.org/packages/source/r/requestsexceptions/requestsexceptions-%{version}.tar.gz
