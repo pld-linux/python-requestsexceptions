@@ -9,7 +9,7 @@ Summary:	Import exceptions from potentially bundled packages in requests
 Summary(pl.UTF-8):	Importowanie wyjątków z pakietów potencjalnie załączonych do requests
 Name:		python-requestsexceptions
 Version:	1.4.0
-Release:	2
+Release:	3
 License:	Apache v2.0
 Group:		Libraries/Python
 Source0:	https://files.pythonhosted.org/packages/source/r/requestsexceptions/requestsexceptions-%{version}.tar.gz
